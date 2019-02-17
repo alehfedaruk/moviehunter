@@ -287,6 +287,36 @@ hr {
     width: 516px;
 }
 
+.info_films {
+    margin-bottom: 2%;
+    background-color: #f9f9f9;
+    padding: 5%;
+    height: 200px;
+    text-align: justify;
+}
+
+.info_films img {
+    float: left;
+    margin-right: 2%;
+    border-radius: 5px;
+    border: solid 5px coral;
+    width: 22%;
+}
+
+.button {
+    background-color: coral;
+    padding: 2%;
+    border-radius: 2px;
+    float: right;
+    clear: both;
+    font-size: 1em;
+}
+
+.button a {
+    font-weight: lighter;
+    color: cornsilk;
+}
+
 .footer {
     width: 100%;
     height: 100px;
